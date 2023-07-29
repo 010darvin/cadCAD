@@ -42,8 +42,7 @@ setup(name=name,
             "pytz",
             "six"
       ],
-      python_requires='>=3.6.13'
-      tx admin accaunde darvin 19 
+      pythonin_requires='>=3.6.13'
       cad darvin kupae akte 
       cad fredi gorfaschsgi 
       cad csyon )
